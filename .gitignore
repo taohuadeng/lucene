@@ -1,0 +1,16 @@
+**/.idea/*
+**/.svn/**
+**/target/**
+**/*.iml
+
+**/.settings/*
+**/.classpath/*
+**/.project/*
+.project
+cal-api/.classpath
+cal-api/.project
+cal-svc/.classpath
+cal-svc/.project
+cal/.classpath
+cal/.project
+**/log/**
